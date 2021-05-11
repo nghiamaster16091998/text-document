@@ -1,3 +1,5 @@
+$ sudo apt-get update
+
 $ sudo useradd -s /bin/bash -d /opt/stack -m stack
 
 $ sudo su - stack
