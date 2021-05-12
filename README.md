@@ -34,6 +34,14 @@ SERVICE_PASSWORD=$ADMIN_PASSWORD
 
 HOST_IP = 192.168.2.132
 
+SERVICE_HOST=$HOST_IP
+
+MYSQL_HOST=$HOST_IP
+
+RABBIT_HOST=$HOST_IP
+
+GLANCE_HOSTPORT=$HOST_IP:8080
+
 $ ./stack.sh
 
 https://www.youtube.com/watch?v=sJ92sWgEAd8&t=183s&ab_channel=MahmoudHussein
