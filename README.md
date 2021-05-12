@@ -35,3 +35,5 @@ SERVICE_PASSWORD=$ADMIN_PASSWORD
 HOST_IP = 192.168.2.132
 
 $ ./stack.sh
+
+https://www.youtube.com/watch?v=sJ92sWgEAd8&t=183s&ab_channel=MahmoudHussein
