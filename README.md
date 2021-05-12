@@ -47,3 +47,5 @@ $ ./stack.sh
 https://www.youtube.com/watch?v=sJ92sWgEAd8&t=183s&ab_channel=MahmoudHussein
 
 https://docs.openstack.org/devstack/latest/
+
+https://www.youtube.com/watch?v=p_6jYq9BWYE&t=224s&ab_channel=KushalBhavsar
