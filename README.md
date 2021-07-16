@@ -51,3 +51,5 @@ https://docs.openstack.org/devstack/latest/
 https://www.youtube.com/watch?v=p_6jYq9BWYE&t=224s&ab_channel=KushalBhavsar
 
 https://github.com/Erol444/TravianBotSharp/releases/download/1.299.0/TBS-1.299.0.zip
+
+https://drive.google.com/file/d/1PSVGtF-pDH3-nv7R9PhGPkSkfQ5S9ApC/view?usp=sharing
